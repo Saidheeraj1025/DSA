@@ -8,4 +8,4 @@ def reverse_string(s):
         right -= 1
 chars = ['h', 'e', 'l', 'l', 'o']
 reverse_string(chars)
-print(chars)                       # Output: ['o', 'l', 'l', 'e', 'h']
+print(chars)                              # Output: ['o', 'l', 'l', 'e', 'h']
